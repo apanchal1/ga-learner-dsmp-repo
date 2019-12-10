@@ -1,0 +1,32 @@
+Class Session 2: Basic Python
+
+Jupyter Notebook:
+	Shift+Enter : Execute Shell
+	os.getcwd() : get current working directory
+	os.chdir(): change working directory
+	
+H.W. :  Difference between List(add,append,extend)
+		List inside List (FlatList)
+		Shallow and Deep Copy
+		Difference between title and capitalize
+	
+Shallow and Deep Copy:
+ l = [1,2,3,4]
+ l1 = l (Deep copy) ... if you change value of l, l1 also changes. (connect with reference id)
+ l1 = l.copy() (Shallow Copy) ... value doesnt change with l. 
+ 
+Difference between title and capitalize:
+
+str = 'hello world ! welcome to greyatom'
+
+str.title()
+str ='Hello World ! Welcome To Greyatom'
+
+str.capitalize()
+str = 'Hello world ! welcome to greyatom'
+
+
+
+In dataset:
+Columns: represents 'features'
+Rows: represents 'Datapoints'
