@@ -1,0 +1,15 @@
+3 library for Machine Learning
+1) Pandas
+2) Scikit-learn
+3) Scipy
+
+
+3-D plots using Pandas
+pandas is slow as compared to numpy
+pandas and numpy cant read pdf files directly we have to convert into html or text data format
+DataFrame is core data structure of pandas.
+DataSeries can holds only one columns.
+if you find 30% of data is missing in dataframe, drop that column unless it is imperative.
+h.w - top and freq rows in object type data series describe method
+	- 'parse_dates=True' in read_csv method
+	- difference b/w Merge,join and concate 

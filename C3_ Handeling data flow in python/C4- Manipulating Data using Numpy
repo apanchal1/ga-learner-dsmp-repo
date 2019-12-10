@@ -1,0 +1,21 @@
+HW:
+1) basics of matrix and its application
+2) KNN algorithm for python - Default no. of neighbours are 5
+3) No. of neighbours should be odd
+4) How we can find out data using even no. of neighbours
+5) If we specify no. of neighbours explicitly is called Hyperparameter
+6)  Accuracy = 1 - [(Actual - estimated)/estimated]*100
+7) How to find accuracy of the model --> Training-Test split (70:30)
+8) Set seed --> Psuedo random number generator --universally idnetical
+9) Classification vs Regression
+	Classification --> Works on Mode in KNN
+	Regression -->  Works on Mean in KNN
+10) D3( ) Dash library in Python
+11) Scikit-learn libraray works on numerical data only
+
+12 )cosine-similarity range(-1,1)
+
+13) Standardization and Normalization
+	Scaling for Standardization --> (-1,1)
+	Scaling for Normalization --> (0,1)
+	Scaling is used to reduce computation time 

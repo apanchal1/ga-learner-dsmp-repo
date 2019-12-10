@@ -1,0 +1,17 @@
+Selection of features for Data analysis:
+1) Remove unwanted columns
+2) use HeatMap graph for features selection
+
+HeatMap graph:
+	Used to find co-relation among columns.
+	Used to find features selection
+	co-relation range (-1,1)
+	It works only on numerical data
+	
+Scatter Plot:
+	it works only on numerical data
+
+Histogram:	
+	it works on frequency(bins)
+	
+	

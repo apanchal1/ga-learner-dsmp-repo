@@ -1,0 +1,4 @@
+HW:
+*args vs **kwargs
+Generator objects
+Map,Reduce and filter function

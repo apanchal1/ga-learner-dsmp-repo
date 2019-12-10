@@ -1,0 +1,21 @@
+commands used in pandas
+df.head()
+df.tail()
+df.shape
+df.dtypes
+df.info()
+df.describe()
+df.isnull().sum()
+value_counts()
+unique()
+nunique()
+iloc[] -- integer based location - to slice row/column when index is number based
+loc[] -- non-integer based lication - to slice row/column when index is non-number based
+df.drop()
+df.rename()
+str.contains()
+.sort_values(ascending=True/False)
+pd.to_datetime
+pd.concat
+df.dropna()
+df.fillna()
